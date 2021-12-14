@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neha
-- 👀 I’m interested in playing with Python
+- 👀 I’m interested in Python 
 - 🌱 I’m currently learning tools used in Data Science
 - 📫 How to reach me neha.arya07edu@gmail.com, https://www.linkedin.com/in/neha-arya-882892137/
 
