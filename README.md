@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Neha
-- 👀 I’m interested in Python 
-- 🌱 I’m currently learning tools used for Data Science
+- 👀 Enthusiast for doing project in Data Science
+- 🌱 Skills: Python, R, SQL, Power BI, Excel
 - 📫 How to reach me neha.arya07edu@gmail.com, https://www.linkedin.com/in/neha-arya-882892137/
 
 <!---
