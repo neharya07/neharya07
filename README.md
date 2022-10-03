@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Neha
-- 👀 Enthusiast for doing project in Data Science
+- 👀 Enthusiast in doing project of Data Science
 - 🌱 Skills: Python, R, SQL, Power BI, Excel
 - 📫 How to reach me neha.arya07edu@gmail.com, https://www.linkedin.com/in/neha-arya-882892137/
 
